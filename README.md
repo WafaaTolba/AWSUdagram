@@ -64,7 +64,7 @@ http://udagram-cli-api-dev.eba-q53wrd6m.us-east-1.elasticbeanstalk.com/
 # Documentation
 - go to https://app.diagrams.net/
 - create architecture diagram and pipeline diagram
-- screenshot of diagrams= diagram.png , diagram-pipeline.png
+- screenshot of diagrams= diagram.png, diagram-pipeline.png
 
 ## Refrences
 1. https://stackoverflow.com/questions/68511124/you-may-not-specify-a-referenced-group-id-for-an-existing-ipv4-cidr-rule-prompt
